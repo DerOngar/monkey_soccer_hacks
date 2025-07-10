@@ -1,6 +1,6 @@
 # monkey_soccer_hacks
 Hacks for Monkey Soccer, the mini game in Ape Escape 2 on the PS2
-## Instructions
+### Instructions
 1. Download the correct .pnach file depending on the version of the game you have
 2. Put it in PCSX2\cheats
 3. In PCSX2 right-click the game, choose "Properties..."
