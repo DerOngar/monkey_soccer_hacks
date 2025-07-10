@@ -3,7 +3,7 @@ Hacks for Monkey Soccer, the mini game in Ape Escape 2 on the PS2
 ## Unlock the last 3 monkeys
 A way to finally choose the last 3 monkeys (Tommy, Yoshi, Goku) in any version of the game.
 ### Explanation
-The last 3 monkeys (Tommy, Yoshi and Goku) are permanently locked in any non japanese versions of Ape Escape 2 even if you catch them in the main game.
+The last 3 monkeys (Tommy, Yoshi and Goku) are permanently locked in any non japanese version of Ape Escape 2 even if you catch them in the main game.
 
 In the japanese version you have to use a seperate disc called the Ukki Ukki Disc to make them appear in the main game instead of beating Specter like in the non japanese versions. The Ukki Ukki Disc alters your Ape Escape 2 save which makes them appear in the main game and if you catch them they are available in Monkey Soccer as well.
 
